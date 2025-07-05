@@ -38,4 +38,4 @@ Mastering LLM foundations isn’t optional anymore — it’s the new literacy f
 
 ---
 
-![Google Cloud Badge - LLMs Foundations](https://path-to-your-badge-image.com/llm-foundations)
+![image](https://github.com/user-attachments/assets/f9a9807d-c163-4cc0-afc1-7f8affdc40a2)
