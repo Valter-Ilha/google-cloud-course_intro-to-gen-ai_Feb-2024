@@ -79,3 +79,6 @@ These labs didn’t just teach how to use tools — they revealed how Generative
 ---
 ![image](https://github.com/user-attachments/assets/9ea9ba3c-4fdd-4d34-be78-7019c7115c02)
 
+![image](https://github.com/user-attachments/assets/7a61d8f6-dbfc-4051-9b0c-39b2fb9d6ef4)
+
+
