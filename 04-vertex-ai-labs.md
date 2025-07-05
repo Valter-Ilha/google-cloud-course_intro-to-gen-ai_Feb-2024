@@ -1,4 +1,4 @@
-# 04 - Prompt Design in Vertex AI (Google Cloud Labs)
+# 04 - Prompt Design in Vertex AI
 
 # 🧪 Vertex AI Labs — Hands-On Exploration with Google’s GenAI Stack
 
