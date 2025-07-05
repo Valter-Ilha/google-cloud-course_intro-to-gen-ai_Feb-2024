@@ -42,5 +42,6 @@ For consultants, strategists, and decision-makers, Responsible AI is a business 
 RAI isn’t a constraint. It’s an enabler of long-term, human-centered innovation.
 
 ---
-![image](https://github.com/user-attachments/assets/df03743f-4784-4050-955c-8fa59980a4e5)
+![image](https://github.com/user-attachments/assets/92b771a8-ac38-475e-818c-bab879c889b9)
+
 
