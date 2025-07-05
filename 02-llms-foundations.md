@@ -37,5 +37,4 @@ LLMs are more than technical marvels — they are **general-purpose business tra
 Mastering LLM foundations isn’t optional anymore — it’s the new literacy for leaders shaping the future of AI-driven business transformation.
 
 ---
-
 ![image](https://github.com/user-attachments/assets/1521f309-b7d7-48c7-b853-b50f373465e8)
