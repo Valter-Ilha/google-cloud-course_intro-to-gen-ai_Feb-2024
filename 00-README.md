@@ -33,6 +33,6 @@ This repo proves I can do both — and build from here.
 ## 🧭 Author
 
 **Valter Ilha**  
-Strategic AI & GenAI Consultant | ESG, Finance & Industrial Integration |  MBA Porto Business School | MIT-certified Data Scientist
+AI & Business Analytics Strategist | ESG, Finance & Industrial Integration |  MBA Porto Business School | MIT-certified Data Scientist
 
 [LinkedIn](https://www.linkedin.com/in/valter-ilha) · [GitHub](https://github.com/valter-ilha)
