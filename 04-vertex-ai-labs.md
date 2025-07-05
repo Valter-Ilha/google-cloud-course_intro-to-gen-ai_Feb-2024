@@ -1,5 +1,4 @@
 # 04 - Prompt Design in Vertex AI
-
 # 🧪 Vertex AI Labs — Hands-On Exploration with Google’s GenAI Stack
 
 These four labs were a pivotal moment in this learning path — not just for practicing the tools, but for engaging with Generative AI at the implementation level. They combined experimentation, SDK/API awareness, and practical strategy, enabling me to test real-world scenarios as a future consultant and AI solution architect.
