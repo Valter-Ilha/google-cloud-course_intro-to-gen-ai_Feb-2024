@@ -34,5 +34,6 @@ This repo proves I can do both — and build from here.
 
 **Valter Ilha**  
 Strategic AI & GenAI Consultant | Lean Six Sigma Black Belt | MBA
+
 AI & Business Analytics Strategist | ESG, Finance & Industrial Integration | MBA Porto Business School | MIT-certified Data Scientist | Lean Six Sigma Black Belt | MSc in Chemical Engineering
 [LinkedIn](https://www.linkedin.com/in/valter-ilha) · [GitHub](https://github.com/valter-ilha)
