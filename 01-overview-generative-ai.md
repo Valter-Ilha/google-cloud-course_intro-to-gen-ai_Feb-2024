@@ -27,3 +27,5 @@ I resonated deeply with the shift from rule-based logic to emergent behavior, wh
 This introduction helped frame GenAI as a tool not only for engineers, but for consultants, strategists, and innovators. It’s a co-pilot, a prototype engine, a storyteller — depending on how it's prompted.
 
 I left this module with clarity: mastering Generative AI isn't optional — it’s a core competency for next-generation business transformation leaders.
+
+![image](https://github.com/user-attachments/assets/aa278b37-f864-44ee-be51-d3aed31ad3ce)
