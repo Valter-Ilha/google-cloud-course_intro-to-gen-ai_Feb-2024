@@ -29,5 +29,4 @@ This introduction helped frame GenAI as a tool not only for engineers, but for c
 I left this module with clarity: mastering Generative AI isn't optional — it’s a core competency for next-generation business transformation leaders.
 
 ---
-
 ![image](https://github.com/user-attachments/assets/888c1651-81e5-490c-8f68-019546b1097a)
