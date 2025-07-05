@@ -38,4 +38,4 @@ Mastering LLM foundations isn’t optional anymore — it’s the new literacy f
 
 ---
 
-![image](https://github.com/user-attachments/assets/f9a9807d-c163-4cc0-afc1-7f8affdc40a2)
+![image](https://github.com/user-attachments/assets/1521f309-b7d7-48c7-b853-b50f373465e8)
